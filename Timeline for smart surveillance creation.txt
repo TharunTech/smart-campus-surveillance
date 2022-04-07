@@ -1,0 +1,12 @@
+Procedural timeline for pjct2 
+
+part 1
+create a web page to display cameras and snapshot Data base and link with smart campus
+
+Part 2 
+make a person detection program using external ML model
+make a color detection program for id card detection using external ml model
+make a camera snapping program 
+
+Part 3
+integrate the python file to html file
